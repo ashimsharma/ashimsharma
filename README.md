@@ -1,4 +1,4 @@
-# Ashim Sharma — Software Engineer
+# Ashim Sharma — Full-Stack Web Developer
 
 Recent graduate passionate about building modern, scalable web applications and digital experiences. My primary strengths are in React, Node.js, Express.js, JavaScript, TypeScript, and full stack development, including deployment and cloud integration.
 
